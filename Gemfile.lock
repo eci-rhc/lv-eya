@@ -1,7 +1,7 @@
 GIT
   remote: git@github.com:eci-rhc/lv-lotvue-core.git
-  revision: bde693fd39340632f47582aef6a91f32c5eac408
-  branch: feature/eya-11-font-changes
+  revision: 8da295aacef4bf46b3e65f8ecd43ea2d3fcde6d6
+  branch: eya_master
   specs:
     lotvue_core (1.0.0)
       activerecord-import (~> 1.0.2)
