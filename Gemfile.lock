@@ -1,6 +1,6 @@
 GIT
   remote: git@github.com:eci-rhc/lv-lotvue-core.git
-  revision: c43628993cbbcf9e214a12d23ab474751f55736e
+  revision: ec724bd43ba2761e5a7129ae989b27c2dbdce770
   branch: eya_master
   specs:
     lotvue_core (1.0.0)
@@ -569,4 +569,4 @@ DEPENDENCIES
   web-console (>= 3.3.0)
 
 BUNDLED WITH
-   2.2.30
+   2.3.26
