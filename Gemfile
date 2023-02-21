@@ -4,8 +4,7 @@ git_source(:github) do |repo_name|
   "https://github.com/#{repo_name}.git"
 end
 # gem 'lotvue_core', path: '/home/lvi36/ruby-projects/lv-lotvue-core'
-# gem 'lotvue_core', git: 'git@github.com:eci-rhc/lv-lotvue-core.git', branch: "eya_master"
-gem 'lotvue_core', git: 'git@github.com:eci-rhc/lv-lotvue-core.git', branch: "bugfix/LV-5733-bootstrap-changes-reset"
+gem 'lotvue_core', git: 'git@github.com:eci-rhc/lv-lotvue-core.git', branch: "eya_master"
 group :development do
   gem 'active_record_query_trace'
   gem 'byebug', platforms: %i[mri mingw x64_mingw]
