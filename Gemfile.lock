@@ -1,7 +1,7 @@
 GIT
   remote: git@github.com:eci-rhc/lv-lotvue-core.git
-  revision: ec724bd43ba2761e5a7129ae989b27c2dbdce770
-  branch: eya_master
+  revision: f242fd65a4970fc2a5e6e6b281199422d523188c
+  branch: bugfix/EYA-15-header-color-change
   specs:
     lotvue_core (1.0.0)
       activerecord-import (~> 1.0.2)
