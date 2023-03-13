@@ -1,7 +1,7 @@
 GIT
   remote: git@github.com:eci-rhc/lv-lotvue-core.git
-  revision: ec724bd43ba2761e5a7129ae989b27c2dbdce770
-  branch: eya_master
+  revision: 9087e6e8740af5a49018e1373a056815a9074b8e
+  branch: feature/nl-155-remove-brandings
   specs:
     lotvue_core (1.0.0)
       activerecord-import (~> 1.0.2)
@@ -461,8 +461,8 @@ GEM
       redis-actionpack (>= 5.0, < 6)
       redis-activesupport (>= 5.0, < 6)
       redis-store (>= 1.2, < 2)
-    redis-store (1.9.1)
-      redis (>= 4, < 5)
+    redis-store (1.9.2)
+      redis (>= 4, < 6)
     ref (2.0.0)
     responders (3.0.1)
       actionpack (>= 5.0)
